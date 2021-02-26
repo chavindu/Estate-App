@@ -1,0 +1,59 @@
+[33mcommit 22f618fba12d16e854601be3a85ae03040f2b800[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m, [m[1;31morigin/dev[m[33m)[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Fri Feb 26 12:14:58 2021 +0530
+
+    Added database context to startup.cs
+
+[33mcommit f8710988b9dd96aeea8f525aedbc86770a1511d1[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Fri Feb 26 12:07:37 2021 +0530
+
+    Added database context to startup.cs
+
+[33mcommit 7400ae250f716a39446856b1d07053fefa4ae1e9[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 20:45:54 2021 +0530
+
+    Added authentication db context class
+
+[33mcommit 012e5be531d116cfa3f14fd6e874df29622c2504[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 20:23:22 2021 +0530
+
+    Added nuget packages
+
+[33mcommit f0bec3285b472dc76ffb65ff8cf4719efdf9f21b[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 20:14:42 2021 +0530
+
+    Added reference to data project
+
+[33mcommit 6015c1a71798ca7ea89afe71b805fd1279422ef3[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 20:08:39 2021 +0530
+
+    Added Data Project
+
+[33mcommit 51f71c497987fb214b3c4e88790e5b4f07383167[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 19:32:11 2021 +0530
+
+    added data project
+
+[33mcommit 49332a6cee6a5c4a7533761244c9a5c43e154125[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mazure/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 19:19:04 2021 +0530
+
+    App name change
+
+[33mcommit 20652c7cdd1a25aa8e49f0b6834b4bcb86a07c0a[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31mazure/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 19:05:33 2021 +0530
+
+    initial commit
+
+[33mcommit 06a34aa84bdf74e1ca6d1d1ca4c35a88ce12bd7a[m
+Author: Chavindu Nuwanpriya <chavindun@gmail.com>
+Date:   Thu Feb 25 18:23:59 2021 +0530
+
+    Initial commit
